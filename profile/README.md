@@ -50,7 +50,7 @@ Our entry for INCEPTION VOL. 2 2026 is a **School Profile Website**: a web platf
 - Structured Laravel codebase that is easy to maintain and extend
 - Reusable Blade components for consistent page design
 
-[![View Repository](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ORGANIZATION-NAME/REPOSITORY-NAME)
+[![View Repository](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/I-R-I-Jaya-Jaya-Jaya)
 
 ---
 
